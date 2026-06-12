@@ -58,11 +58,6 @@
           << \clef "treble" \include #(string-append prefix "Global.ily") \include #(string-append prefix "AltM.ily") >>
           \new Lyrics \lyricsto "AltM" \include #(string-append prefix "AltT.ily")
 
-          \new Staff \with \tvn
-          \new Voice = "TenorM"
-          << \clef "treble_8" \include #(string-append prefix "Global.ily") \include #(string-append prefix "TenorM.ily") >>
-          \new Lyrics \lyricsto "TenorM" \include #(string-append prefix "TenorT.ily")
-
           \new Staff \with \bvn
           \new Voice = "BassM"
           << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "BassM.ily") >>
@@ -87,7 +82,7 @@
       }
     }
   }
-  
+
   \bookpart {
     #(define prefix "02/")
     \score {
@@ -147,7 +142,7 @@
       }
     }
   }
-  
+
   \bookpart {
     #(define prefix "03/")
     \score {

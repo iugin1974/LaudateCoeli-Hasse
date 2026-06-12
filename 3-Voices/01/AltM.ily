@@ -44,26 +44,26 @@
   R1*4/4 |
   R1*4/4 |
   r2 r4 r8 h |
-  a2 gis4 r8 h |
-  a2 gis4 r |
+  cis4 a4 gis4 r8 h |
+  cis4 a4 gis4 r |
 
   %35
   r r8 e a4 gis |
-  fis e8 e e4. fis8 |
-  gis4( a8) a a4 gis |
-  a r8 e fis4. fis8 |
-  e4. e8 fis4. fis8 |
+  fis e8 a gis4 a4 |
+  gis4( a8) fis a4 gis |
+  a r8 cis cis4( h8) a |
+  a4( gis8) cis cis4( h8) a |
 
   %40
-  e4. cis'8 \p cis4( h8) a |
+  a[( gis]) r8 cis8 \p cis4( h8) a |
   a4( gis8) cis cis4( h8) a |
   e4 r4 r4 r8  e8\f |
   a4 gis fis e8 e |
-  e2 e4 r8 gis |
+  gis4 a a8 gis r8 gis |
 
   %45
-  a gis r gis a gis r gis |
-  a4 a8 a a4 gis |
+  a gis r gis a gis r e |
+  e8[( d8]) cis fis a4 gis |
   a r r2 |
   R1*4/4 |
   R1*4/4 |
@@ -79,13 +79,13 @@
   R1*4/4 |
   R1*4/4 |
   R1*4/4 |
-  r4 r8 fis8 \f g4. fis8 |
-  fis4. fis8 g4. fis8 |
+  r4 r8 d8 \f d4( cis8) h |
+  h4( ais8) d d4( cis8) h |
 
   %60
-  fis4 r8 fis fis4 fis |
-  fis2~  fis8[ e fis] g |
-  fis4 fis fis r |
+  h[( ais]) r ais h ais4 h16[ cis] |
+  h8 ais4 h16[ cis] h4. h8 |
+  h4 ais h r |
   R1*4/4 |
   R1*4/4 |
 
@@ -114,8 +114,8 @@
   fis4( e8) a a4( g8) fis |
   fis[( e]) r4 r r8 a |
   d4 cis h a8 a |
-  a2~  a4 fis8 h |
-  a4 a a r8 a |
+  cis4 d4 cis8[ h16 a16] fis8 h8 |
+  a4 cis d r8 a |
 
   %85
   d[ a] fis[ e16 d] d'8[ a fis d] |
@@ -126,9 +126,9 @@
 
   %90
   r r8 a8 \f d4 cis |
-  h a8 a a2 ~  |
-  a4 fis8 h a4 a |
-  a r r r8 a8 \p |
+  h a8 a cis4 d4 |
+  cis8[ h16 a16] fis8 h a4 cis |
+  d r r r8 a8 \p |
   d4 cis h a8 a8 \f |
 
   %95
@@ -139,7 +139,7 @@
   fis8[ a16 g] fis8 g fis4 e |
 
   %100
-  fis r8 a h4 a |
+  fis r8 a h4 cis |
   a r8 a h4 a8 g |
   fis4 r r2 |
   R1*4/4 |

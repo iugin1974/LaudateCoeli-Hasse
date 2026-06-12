@@ -59,7 +59,7 @@
   R1*4/4 |
   r4 r8 e8 \f a4 gis |
   fis e8 e d4 cis |
-  h a e'8 e r e |
+  h a e'8 e r gis |
 
   %45
   a e r e a e r e |
@@ -134,9 +134,9 @@
   %95
   e d a'8 a r a |
   d a r a d a r a |
-  d,4 d'2 a4 |
-  d, d'2 a4 |
-  d8[ a] d g, a4 a |
+  d,4 d'2 cis4 |
+  d d2 cis4 |
+  d8[ a] d h a4 a |
 
   %100
   d, r8 fis g4 a |
