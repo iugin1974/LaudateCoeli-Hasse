@@ -59,10 +59,10 @@
   R1*4/4 |
   r4 r8 e8 \f a4 gis |
   fis e8 e d4 cis |
-  h a e'8 e r gis |
+  h a e'8 e r e |
 
   %45
-  a e r e a e r e |
+  a e r e a e r gis |
   a4 a8 d, e4 e |
   a r r2 |
   R1*4/4 |
@@ -111,7 +111,7 @@
   d r8 d, g4. gis8 |
 
   %80
-  a4. fis8 g4. g8 |
+  a4. fis8 g4. gis8 |
   a4 r8 a d4 cis |
   h a8 a g4 fis |
   e d a' h8 g |
@@ -132,8 +132,8 @@
   h a8 a g4 fis |
 
   %95
-  e d a'8 a r a |
-  d a r a d a r a |
+  e d a'8 a r cis |
+  d cis r a d a r a |
   d,4 d'2 cis4 |
   d d2 cis4 |
   d8[ a] d h a4 a |

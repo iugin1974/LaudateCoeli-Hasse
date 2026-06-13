@@ -134,7 +134,7 @@
   %95
   a2 a4 r8 a |
   a a r a a a r a |
-  a4 h a g |
+  fis4 h a g |
   fis h a g |
   fis8[ a16 g] fis8 g fis4 e |
 

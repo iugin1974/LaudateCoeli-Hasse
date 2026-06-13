@@ -111,7 +111,7 @@
   d r8 d, g4. gis8 |
 
   %80
-  a4. fis8 g4. g8 |
+  a4. fis8 g4. gis8 |
   a4 r8 a d4 cis |
   h a8 a g4 fis |
   e d a' h8 g |

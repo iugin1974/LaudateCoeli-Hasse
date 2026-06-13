@@ -99,8 +99,8 @@
          R1*3/4 |
          g2.^\tutti |
          g |
-         g |
-         g |
+         e |
+         f |
 
 %75
          g4( c) h |
@@ -113,8 +113,8 @@
          e2 e4 |
          a, a r |
          fis'2 fis4 |
-         g2 g4 |
-         a2 a4 |
+         g2 h4 |
+         fis( g) a4 |
 
 %85
          g2( gis4) |
@@ -125,31 +125,31 @@
 
 %90
          e2.-\fermata |
-         g2. |
-         g |
-         g |
-         g |
+         g2.~ |
+         g4\grace {e'8}  d4 c8[ h] |
+         e2.~  |
+         e4 \grace {g8}  f4 e8[ d] |
 
 %95
-         g4 a2 |
-         a4 h gis |
-         e a g |
-         fis g d |
-         e c d |
+         e2. |
+         d |
+         c |
+         h |
+         a4 g4 fis4 |
 
 %100
          e d e |
          e2. |
          d2 r4 |
          fis2 fis4 |
-         g2 g4 |
+         g2 h4 |
 
 %105
-         a2 a4 |
+         fis4( g) a4 |
          g2 r4 |
          R1*3/4 |
          R1*3/4 |
-         a4( gis) a |
+         e4( gis) a |
 
 %110
          a( h) c |
