@@ -103,7 +103,7 @@
   r8 fis8 \f g8 cis,8 r8 d8 h'8 g8 |
 
   %75
-  r8 d8\fff d8 d8 a2~  |
+  r8 d8\fp d8 d8 a2~  |
   a4 r4 r2 |
   r8 fis'8 g8 cis,8 r8 d8 h'8 g8 |
   r8 fis8 g8 e8 a4 g4 |

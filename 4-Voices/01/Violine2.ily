@@ -103,10 +103,10 @@
   d8.-\trill cis32( d32) e8 a,8 fis'8.-\trill e32( fis32) g8 e8 |
 
   %75
-  <>8  \fff a8.-\trill g32( a32) h8 g,8 e2-\trill |
+  <>8  \fp a8.-\trill g32( a32) h8 g,8 e2-\trill |
   d4 r4 r4 r8 a'8 \f |
   d8.-\trill cis32( d32) e8 a,8 fis'8.-\trill e32( fis32) g8 e8 |
-  <>8  \fff a8.-\trill g32( a32) h8 h,8 d4( cis4-\trill) |
+  <>8  \fp a8.-\trill g32( a32) h8 h,8 d4( cis4-\trill) |
   d4 r8 fis8 \f fis4( e8) d8 |
 
   %80

@@ -29,7 +29,7 @@
 %90
          e2.-\fermata |
          g2.~ |
-         g4\grace {e'8}  d4 c8[ h] |
+         g4\grace {e8}  d4 c8[ h] |
          e2.~  |
          e4 \grace {g8}  f4 e8[ d] |
 
@@ -38,7 +38,7 @@
          d |
          c |
          h |
-         a4 g4 fis4 |
+         a4 c4 d4 |
 
 %100
          e d e |

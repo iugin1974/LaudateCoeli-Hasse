@@ -9,7 +9,7 @@
   fis d g gis a4 r |
   r8 d cis a r d h g |
   r fis g e a a, a r |
-  r<>  \fff d'8 cis a r d h g |
+  r<>  \fp d'8 cis a r d h g |
 
   %10
   r fis g e r a, a' fis |
@@ -103,10 +103,10 @@
   r8 d8 \f cis a r d h g |
 
   %75
-  r<>  \fff fis8 g g a4 a, |
+  r<>  \fp fis8 g g a4 a, |
   d r2 r4 |
   r8 d'8 \f cis a r d h g |
-  r<>  \fff fis8 g e a4 a, |
+  r<>  \fp fis8 g e a4 a, |
   d8 d8 \f fis d g g g gis |
 
   %80

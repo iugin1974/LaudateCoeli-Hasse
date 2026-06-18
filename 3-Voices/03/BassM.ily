@@ -20,11 +20,11 @@
   h a8 a g4 fis |
 
   %95
-  e d a'8 a r a |
-  d a r a d a r a |
-  d,4 d'2 a4 |
-  d, d'2 a4 |
-  d8[ a] d g, a4 a |
+  e d a'8 a r cis |
+  d cis r a d a r a |
+  d,4 d'2 cis4 |
+  d d2 cis4 |
+  d8[ a] d h a4 a |
 
   %100
   d, r8 fis g4 a |
