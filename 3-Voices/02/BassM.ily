@@ -19,7 +19,7 @@
          fis( g) a |
          h2. |
          cis, |
-         d8. e16 fis4 r |
+         d8.[ e16] fis4 r |
 
 %45
          R1*3/4*3 |

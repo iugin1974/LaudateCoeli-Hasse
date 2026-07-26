@@ -149,7 +149,7 @@
   d4( cis8) r8 r8 fis8 \p g8 cis,8 |
   r8 d8 h'8 g8 r8 fis8 g8 e8 |
   d4( cis8) a8 \f d8 d8 cis8 cis8 |
-  h8.-\trill a32( h32) a8 fis'8 g8 d'8 d,8 a'16 h16 |
+  h8.-\trill a32( h32) a8 fis'8 g8[ d'8] d,8 a'16 h16 |
 
   %110
   cis8 cis8 d8 d8 cis8 e8 a,8 h8 |

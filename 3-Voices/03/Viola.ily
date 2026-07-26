@@ -2,7 +2,7 @@
   d4 a8 a\f d d cis cis |
   h h a a' g g fis fis |
   e e d d a' a fis g |
-  a4 g fis16 d e fis g a h cis |
+  a4 g fis16[ d e fis] g a h cis |
 
   %85
   d8 a fis e16 d d'8 a fis e16 d |
@@ -37,7 +37,7 @@
   d4( cis8) r r fis8 \p g cis, |
   r d h' g r fis g e |
   d4( cis8) a8 \f d d cis cis |
-  h8.-\trill a32( h) a8 fis' g d' d, a'16 h |
+  h8.-\trill a32( h) a8 fis' g[ d'] d, a'16 h |
 
   %110
   cis8 cis d d cis e a, h |

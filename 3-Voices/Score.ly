@@ -5,6 +5,8 @@
 #(set-global-staff-size 15)
 \pointAndClickOff
 
+
+
 \paper {
   markup-system-spacing.padding = #5
   scoreTitleMarkup = \markup {
@@ -135,6 +137,29 @@
           \RemoveEmptyStaves
         }
       }
+    }
+  }
+
+\bookpart {
+    #(define prefix "02.2/")
+    \score {
+      \include #(string-append prefix "Header.ily")
+      <<
+          \new Staff \with \bvn
+          \new Voice = "BassM"
+          << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "BassM.ily") >>
+          \new Lyrics \lyricsto "BassM" \include #(string-append prefix "BassT.ily")
+
+          \new PianoStaff <<
+          \new Staff << \include #(string-append prefix "Global.ily") \include #(string-append prefix "RH.ily") >>
+          \new Staff
+          <<
+            \clef "bass" \include #(string-append prefix "Global.ily")
+            \new Voice { \include #(string-append prefix "Violoncello.ily") }
+          >>
+        >>
+        \new FiguredBass { \include #(string-append prefix "Continuo.ily") }
+      >>
     }
   }
 
