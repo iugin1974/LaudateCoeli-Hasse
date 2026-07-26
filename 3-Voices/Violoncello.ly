@@ -33,52 +33,46 @@
     \score {
       \include #(string-append prefix "Header.ily")
       <<
-          \new Staff
-          \new Voice = "Violoncello"
-          << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily") >>
+        \new Staff
+        \new Voice = "Violoncello"
+        << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily") >>
       >>
-      \layout {
-        \context {
-          \Score
-          \RemoveEmptyStaves
-        }
-      }
     }
   }
-  
-    \bookpart {
+
+  \bookpart {
     #(define prefix "02/")
     \score {
       \include #(string-append prefix "Header.ily")
       <<
-          \new Staff
-          \new Voice = "Violoncello"
-          << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily") >>
+        \new Staff
+        \new Voice = "Violoncello"
+        << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily") >>
       >>
-      \layout {
-        \context {
-          \Score
-          \RemoveEmptyStaves
-        }
-      }
     }
   }
-  
-    \bookpart {
+
+  \bookpart {
+    #(define prefix "02.2/")
+    \score {
+      \include #(string-append prefix "Header.ily")
+      <<
+        \new Staff
+        \new Voice = "Violoncello"
+        << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily") >>
+      >>
+    }
+  }
+
+  \bookpart {
     #(define prefix "03/")
     \score {
       \include #(string-append prefix "Header.ily")
       <<
-          \new Staff
-          \new Voice = "Violoncello"
-          << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily") >>
+        \new Staff
+        \new Voice = "Violoncello"
+        << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily") >>
       >>
-      \layout {
-        \context {
-          \Score
-          \RemoveEmptyStaves
-        }
-      }
     }
   }
 }

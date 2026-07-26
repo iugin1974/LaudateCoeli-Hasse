@@ -80,7 +80,7 @@
   }
 
   \bookpart {
-    #(define prefix "03/")
+    #(define prefix "02/")
     \score {
       \include #(string-append prefix "Header.ily")
       <<
@@ -126,6 +126,24 @@
           \Voice
           \remove Dynamic_engraver
         }
+      }
+    }
+  }
+
+  \bookpart {
+    #(define prefix "02.2/")
+    \score {
+      \include #(string-append prefix "Header.ily")
+      <<
+        \new Staff \with \bvn
+          \new Voice = "BassM"
+          << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "BassM.ily") >>
+          \new Lyrics \lyricsto "BassM" \include #(string-append prefix "BassT.ily")
+
+          \new Staff  <<
+            \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily")
+          >>
+      >>
       }
     }
   }

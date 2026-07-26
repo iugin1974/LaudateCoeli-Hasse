@@ -11,7 +11,7 @@
       a8 h8 c8 c4 a8 r4. r4. | % 15
       h8 d8 c8 h8 a8 g8 c8 e8 d8 c8 h8 a8 | % 16
       d,2. d4. r4. | % 17
-      r1. | % 18
+      R1. | % 18
       R1. | % 19
       r1. | \barNumberCheck #20
       R1.*2 | % 22

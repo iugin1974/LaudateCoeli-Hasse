@@ -33,52 +33,35 @@
     \score {
       \include #(string-append prefix "Header.ily")
       <<
-          \new Staff
-          \new Voice = "Violine1"
-          << \clef "treble" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violine1.ily") >>
+        \new Staff
+        \new Voice = "Violine1"
+        << \clef "treble" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violine1.ily") >>
       >>
-      \layout {
-        \context {
-          \Score
-          \RemoveEmptyStaves
-        }
-      }
     }
   }
-  
-    \bookpart {
+
+  \bookpart {
     #(define prefix "02/")
     \score {
       \include #(string-append prefix "Header.ily")
       <<
-          \new Staff
-          \new Voice = "Violine1"
-          << \clef "treble" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violine1.ily") >>
+        \new Staff
+        \new Voice = "Violine1"
+        << \clef "treble" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violine1.ily") >>
       >>
-      \layout {
-        \context {
-          \Score
-          \RemoveEmptyStaves
-        }
-      }
     }
+      \markup \tacet { "02.2 Recordatus est" }
   }
-  
-    \bookpart {
+
+  \bookpart {
     #(define prefix "03/")
     \score {
       \include #(string-append prefix "Header.ily")
       <<
-          \new Staff
-          \new Voice = "Violine1"
-          << \clef "treble" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violine1.ily") >>
+        \new Staff
+        \new Voice = "Violine1"
+        << \clef "treble" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violine1.ily") >>
       >>
-      \layout {
-        \context {
-          \Score
-          \RemoveEmptyStaves
-        }
-      }
     }
   }
 }
