@@ -113,7 +113,7 @@
          d c h |
          a2 r4 |
          <d , a ' fis'>2. |
-         <d  h ' fis ' g> |
+         <d  h' g'> |
          d'2 c4 |
 
 %85
