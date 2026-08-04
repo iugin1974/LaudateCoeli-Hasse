@@ -58,11 +58,11 @@
          d2 d4 |
          d2.~ \p |
          d |
-         c^\tutti |
+         c^\tutti\fp |
          h |
 
 %75
-         c4( a') g |
+         c4(\f a') g |
          f( g) gis |
          a( fis) d |
          g( e) h |
@@ -84,7 +84,7 @@
 
 %90
          e2.-\fermata |
-         c4 e g |
+         c4\f e g |
          g,2. |
          c4 e g |
          g,2. |

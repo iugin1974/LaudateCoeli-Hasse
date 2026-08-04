@@ -2,11 +2,11 @@
          R1*3/4*70 |
          g2.^\tutti |
          g |
-         e |
+         e\fp |
          f |
 
 %75
-         g4( c) h |
+         g4(\f c) h |
          a( g) f |
          e( d) fis |
          g2 f4 |
@@ -28,7 +28,7 @@
 
 %90
          e2.-\fermata |
-         g2.~ |
+         g2.~\f |
          g4\grace {e8}  d4 c8[ h] |
          e2.~  |
          e4 \grace {g8}  f4 e8[ d] |

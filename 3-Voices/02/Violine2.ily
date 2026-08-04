@@ -5,32 +5,32 @@
          e4 h a) |
 
 %5
-         <g  g'>2.~  |
+         <g  g'>2.\f~  |
          <g  g'>~  |
          g'4\p c( h) |
          a( g fis) |
-         g2. |
+         g2.\f |
 
 %10
          f |
          \grace {f16}  e8. d16 c4 h |
          a a'\p( g) |
-         \grace {g16}  fis8. e16 d4 r |
-         <d  a'>2. |
+         \grace {g16}  fis8.\prall e16 d4 r |
+         <d  a'>2.\f |
 
 %15
          <d  h'> |
          <d  a'>\p |
          g2( gis4) |
-         a( gis a) |
+         a(\f gis a) |
          a( h c) |
 
 %20
          r h( \p a) |
          g \grace {h8}  a4 g8 fis |
-         g4 e( fis) |
+         g4 e(\f fis) |
          g e( \p fis) |
-         g e( fis |
+         g e(\f fis |
 
 %25
          g) e( \p fis |
@@ -42,7 +42,7 @@
 %30
          g( g, d') |
          e( h a) |
-         <g  g'>2.~  |
+         <g  g'>2.~\f  |
          <g  g'>~  |
          g'2 h4 |
 
@@ -58,11 +58,11 @@
          d2.~  |
          d2 e4 |
          \grace {d}  cis2. |
-         d~  |
+         d~\f  |
 
 %45
          d2 \p cis4 |
-         d2( c4) |
+         d2(\f c4) |
          h a2 |
          a2.~\p   |
          a4 gis2 |
@@ -99,11 +99,11 @@
          g \grace {h8}  a4 g8 fis |
          <g,  g'>2.~ \p |
          <g  g'>~  |
-         <g  g'>~  |
+         <g  g'>~\cresc  |
          <g  g'> |
 
 %75
-         <g  g'>4 c'( h) |
+         <g  g'>4 c'(\f h) |
          a( g f) |
          e d fis |
          g g( f) |
@@ -125,7 +125,7 @@
 
 %90
          g2.-\fermata |
-         c2.~  |
+         c2.~\f  |
          c4 \grace {e8}  d4 c8( h) |
          c2.~  |
          c4 \grace {e8}  d4 c8 h |
@@ -149,11 +149,11 @@
          g2( f4) |
          e( \p gis) a |
          a8. h16 h4-\trill c4 |
-         e,( gis) a |
+         e,(\f gis) a |
 
 %110
          a( h) c |
-         r h( a) |
+         r h(\p a) |
          g \grace {h8}  a4 g8 fis |
          g2 a4 |
          h h( a) |
@@ -173,7 +173,7 @@
          c \grace {h}  a2 |
 
 %125
-         g4 e( fis) |
+         g4 e(\f fis) |
          g e( fis) |
          g e( fis) |
          g( e fis) |

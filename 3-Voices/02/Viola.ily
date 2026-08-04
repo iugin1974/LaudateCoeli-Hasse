@@ -5,44 +5,44 @@
          e) d2 |
 
 %5
-         d2. |
+         d2.\f |
          e |
          d4\p( c d) |
          e( d c) |
-         h8. cis16 d4 e |
+         h8. cis16 d4\f e |
 
 %10
          a,8. h16 c4 d |
          e2.~  |
          e2 e4 |
          a,2 r4 |
-         d2.~  |
+         d2.\f~  |
 
 %15
          d4 h'( g) |
          fis( \p g a) |
          d,( e f) |
-         e2.~  |
+         e2.~\f  |
          e |
 
 %20
          d~\p |
          d~  |
-         d4 c( a |
+         d4 c(\f a |
          g) c( \p a) |
-         g c( a |
+         g c(\f a |
 
 %25
          g) c( \p a |
          g) h d |
          g,2. |
-         a \p |
+         h \p |
          <c  e>2 d4~  |
 
 %30
          d c g |
          e d2 |
-         d'2. |
+         d'2.\f |
          e |
          d4( c d) |
 
@@ -58,11 +58,11 @@
          d4( e fis) |
          g( fis e) |
          a, a'2~  |
-         a4 fis2 |
+         a4 fis2\f |
 
 %45
          h \p a4~  |
-         a d, a' |
+         a\f d, a' |
          h e,2 |
          a4 \p f2~  |
          f4 e2~  |
@@ -99,11 +99,11 @@
          d |
          d \p |
          d |
-         e |
+         e\cresc |
          f |
 
 %75
-         e4 c e |
+         e4 c\f e |
          f e d |
          c a d~  |
          d g, d' |
@@ -125,7 +125,7 @@
 
 %90
          h2.-\fermata |
-         <g  g'>2. |
+         <g  g'>2.\f |
          <g  g'> |
          <g  g'> |
          <g  g'>~  |
@@ -149,11 +149,11 @@
          h h d |
          e2.\p  |
          <e  a> |
-         e |
+         e\f |
 
 %110
          e |
-         d~  |
+         d~\p  |
          d |
          g4 g, fis'( |
          g) g, fis' |
@@ -173,7 +173,7 @@
          g d c |
 
 %125
-         h c( a) |
+         h c(\f a) |
          g c( a) |
          g c( a) |
          g c a |

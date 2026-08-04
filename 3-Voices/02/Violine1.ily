@@ -5,32 +5,32 @@
          \grace {h8}  a4( g fis) |
 
 %5
-         h2. |
+         h2.\f |
          c |
          d4\p( e d) |
          \grace {d8}  c4( h a) |
-         g2. |
+         g2.\f |
 
 %10
          f |
          \grace {f16}  e8. d16 c4 h |
          a a'\p( g) |
-         \grace {g16}  fis8. e16 d4 r |
-         <d  a ' fis'>2. |
+         \grace {g16}  fis8.\prall e16 d4 r |
+         <d  a ' fis'>2.\f |
 
 %15
          <d  h ' g'> |
          d'2\p( c4-\trill) |
          h2. |
-         a4( h c) |
+         a4(\f h c) |
          c( d e) |
 
 %20
          r d( \p c) |
          h \grace {d8}  c4 h8 a |
-         g4 r c'( |
+         g4 r c'(\f |
          h8) r r4 c,\p ( |
-         h8) r r4 c'( |
+         h8) r r4 c'(\f |
 
 %25
          h8) r r4 c,\p ( |
@@ -42,7 +42,7 @@
 %30
          h4( c h) |
          a( g fis) |
-         h2. |
+         h2.\f |
          c |
          d4( e d) |
 
@@ -58,11 +58,11 @@
          d2.~  |
          d2 g4 |
          \grace {fis}  e2. |
-         d |
+         d\f |
 
 %45
          e \p |
-         fis4 g fis |
+         fis4\f g fis |
          e \grace {d}  cis2 |
          d2.~\p   |
          d |
@@ -99,11 +99,11 @@
          h \grace {d8}  c4 h8 a |
          <g,  g'>2.~ \p  |
          <g  g'>~  |
-         <g  g'>~  |
+         <g  g'>~\cresc  |
          <g  g'> |
 
 %75
-         <g  g'>4 f''( e) |
+         <g  g'>4 f''(\f e) |
          d( c h) |
          c2. |
          h |
@@ -125,7 +125,7 @@
 
 %90
          g2.-\fermata |
-         e'2.~  |
+         e'2.~\f  |
          e4 \grace {g8}  f4 e8( d) |
          e2.~  |
          e4 \grace {g8}  f4 e8 d |
@@ -149,11 +149,11 @@
          h2. |
          a4( \p h) c |
          c8. d16 d4-\trill e4 |
-         a,( h) c |
+         a,(\f h) c |
 
 %110
          c( d) e |
-         r d( c) |
+         r d(\p c) |
          h \grace {d8}  c4 h8 a |
          h4 d( c) |
          h d( c) |
@@ -173,7 +173,7 @@
          e \grace {g,}  fis2 |
 
 %125
-         g4 r c'( |
+         g4 r c'(\f |
          h8) r r4 \p c,( |
          h8) r r4 c'( |
          h8) r r4 c,( |
