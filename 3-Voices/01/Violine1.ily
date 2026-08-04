@@ -1,7 +1,7 @@
 \relative c'' {
   \partial 256*32  d8 |
   fis4 a4 d8 d4 d8~  |
-  d8 d16 cis16 h8 a8 g8 fis4 d'8~  |
+  d8 cis16 h16 a8 g8 fis8 d'4 d8~  |
   d8 cis16 h16 a8 g8 fis8 a4 a8~  |
 
   %5
@@ -69,7 +69,8 @@
 
   %50
   gis16[ e16 fis16 gis16] a16[ e16 d16 cis16] h16[ h'16 gis16 e16] a16[ fis16 e16 d16] |
-  cis8 h16 a16 h4-\trill a4 r4  \p        cis8 cis8 cis8 d8 e8 e8 e8 fis8 |
+  cis8 h16 a16 h4-\trill a4 r4 |
+  cis8\p cis8 cis8 d8 e8 e8 e8 fis8 |
   g2:8 fis2 |
   e8 a,8 a8 a'8 a4( g8) fis8 |
 
