@@ -29,7 +29,7 @@
   d4( cis8) fis fis4( e8) d |
 
   %60
-  d( cis) r cis d cis4 d16[ e] |
+  d[( cis]) r cis d cis4 d16[ e] |
   d8 cis4 d16[ e] d8[ g fis e] |
   d16[ cis h8] cis4-\trill h4 r |
   R1*4/4*16 |

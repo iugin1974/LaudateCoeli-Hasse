@@ -71,7 +71,7 @@
   h16[ gis16 a16 h16] cis16[ cis16 h16 a16] gis8 h8 e16[ d16 cis16 h16] |
   a8 a4 gis8 a4 r4 |
    a8 \p a8 a8 h8 cis8 cis8 cis8 d8 |
-  e2:8 d2 |
+  e2:8 \grace {e4} d2 |
   cis8 a8 a8 fis'8 fis4( e8) d8 |
 
   %55

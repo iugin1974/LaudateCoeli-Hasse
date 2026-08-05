@@ -16,7 +16,7 @@
   %40
   a[( gis]) r8 cis8 \p cis4( h8) a |
   a4( gis8) cis cis4( h8) a |
-  e4 r4 r4 r8  e8\f |
+  a8[( gis8)] r4 r4 r8  e8\f |
   a4 gis fis e8 e |
   gis4 a a8 gis r8 gis |
 
@@ -65,7 +65,7 @@
 
   %100
   fis r8 a h4 cis |
-  a r8 a h4 a8 g |
+  a r8 a h4 a8([ g)] |
   fis4 r r2 |
   R1*4/4*8 |
   R1*4/4 \bar"|."
