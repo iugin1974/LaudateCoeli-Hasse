@@ -1,13 +1,13 @@
 \relative d' {
   d4 a4 r4 r8 a''8 |
   d8 d8 cis8 cis8 h8.-\trill a32( h32) a8 d8 |
-  g,8 g8 fis8.-\trill e32( fis32) e8 d16 cis16 d8 h'8 |
+  g,8 g8 fis8.-\trill e32( fis32) \grace { fis16 } e8 d16 cis16 d8 h'8 |
   fis4 e4-\trill d16[ d,16 e16 fis16] g16[ a16 h16 cis16] |
 
   %85
-  d8 a8 fis8 e16 d16 d'8 a8 fis8 e16 d16 |
-  d'8 a8 fis8 e16 d16 a'4 r8 a8 \p |
-  d8 a8 fis8 e16 d16 a'4 r8 a'8 \f |
+  d8[ a8] \grace { g16 } fis8 e16 d16 d'8[ a8] \grace { g16 } fis8 e16 d16 |
+  d'8[ a8] \grace { g16 } fis8 e16 d16 a'4 r8 a8 \p |
+  d8[ a8] \grace { g16 } fis8 e16 d16 a'4 r8 a'8 \f |
   a4( g8) fis8 fis4( e8) a8 |
   a4( g8) fis8 fis8( e8) r4 |
 
@@ -41,5 +41,5 @@
 
   %110
   g8 g8 fis8.-\trill e32( fis32) e8 cis'8 d8 g,8 |
-  fis8 e16 d16 e4-\trill d4 r4-\fermata \bar"|."
+  \grace { g16 } fis8 e16 d16 e4-\trill d4 r4-\fermata \bar"|."
 }

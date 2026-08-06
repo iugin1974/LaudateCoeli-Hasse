@@ -1,157 +1,157 @@
 \relative c' {
   \partial 256*32  r8 |
-  d d cis cis h h a g |
-  fis g a a, d h' a g |
-  fis g a a, d d' a fis |
+  d8 d8 cis8 cis8 h8 h8 a8 g8 |
+  fis8 g8 a8 a,8 d8 h'8 a8 g8 |
+  fis8 g8 a8 a,8 d8 d'8 a8 fis8 |
 
   %5
-  d fis g gis a g fis e |
-  fis d g gis a4 r |
-  r8 d cis a r d h g |
-  r fis g e a a, a r |
-  r<>  \fp d'8 cis a r d h g |
+  d8 fis8 g8 gis8 a8 g8 fis8 e8 |
+  fis8 d8 g8 gis8 a4 r4 |
+  r8 d8 cis8 a8 r8 d8 h8 g8 |
+  r8 fis8 g8 e8 a8 a,8 a8 r8 |
+  r8<>8  \fp d'8 cis8 a8 r8 d8 h8 g8 |
 
   %10
-  r fis g e r a, a' fis |
-  g g g g r fis fis fis |
-  r e e e r d d d |
-  r cis cis cis r h h h |
-  r a a a r a' a a |
+  r8 fis8 g8 e8 r8 a,8 a'8 fis8 |
+  g8 g8 g8 g8 r8 fis8 fis8 fis8 |
+  r8 e8 e8 e8 r8 d8 d8 d8 |
+  r8 cis8 cis8 cis8 r8 h8 h8 h8 |
+  r8 a8 a8 a8 r8 a'8 a8 a8 |
 
   %15
-  d d cis cis h h a a |
-  g g fis fis e e d d |
-  a'4 r8 cis d h g a |
-  d,4 r8 a'8 \p d d cis cis |
-  h h a a g g fis fis |
+  d8 d8 cis8 cis8 h8 h8 a8 a8 |
+  g8 g8 fis8 fis8 e8 e8 d8 d8 |
+  a'4 r8 cis8 d8 h8 g8 a8 |
+  d,4 r8 a'8 \p d8 d8 cis8 cis8 |
+  h8 h8 a8 a8 g8 g8 fis8 fis8 |
 
   %20
-  e e d d a'4 r8 d, |
-  a'4 r8 a a4 r8 a |
-  a4 r8 cis d4 a |
-  d, r d'8 \p d cis cis |
-  h h a g fis g a a, |
+  e8 e8 d8 d8 a'4 r8 d,8 |
+  a'4 r8 a8 a4 r8 a8 |
+  a4 r8 cis8 d4 a4 |
+  d,4 r4 d'8 \p d8 cis8 cis8 |
+  h8 h8 a8 g8 fis8 g8 a8 a,8 |
 
   %25
-  d h' a g fis g a a, |
-  d e fis d e cis d gis, |
-  a a' g fis e cis d gis, |
-  a a' g fis e a, h cis |
-  d e fis e dis h cis dis |
+  d8 h'8 a8 g8 fis8 g8 a8 a,8 |
+  d8 e8 fis8 d8 e8 cis8 d8 gis,8 |
+  a8 a'8 g8 fis8 e8 cis8 d8 gis,8 |
+  a8 a'8 g8 fis8 e8 a,8 h8 cis8 |
+  d8 e8 fis8 e8 dis8 h8 cis8 dis8 |
 
   %30
-  e e' d cis h gis a dis, |
-  e e' d cis h gis a dis, |
-  e e, e r r4 r8 e' |
-  a a, cis h16 a e'4 r8 e |
-  a a, cis h16 a e'8 e, e e' |
+  e8 e'8 d8 cis8 h8 gis8 a8 dis,8 |
+  e8 e'8 d8 cis8 h8 gis8 a8 dis,8 |
+  e8 e,8 e8 r8 r4 r8 e'8 |
+  a8[ a,8] \grace {d16} cis8 h16 a16 e'4 r8 e8 |
+  a8[ a,8] \grace {d16} cis8 h16 a16 e'8 e,8 e8 e'8 |
 
   %35
-  a a gis gis fis fis e e |
-  d d cis cis h h a a |
-  e' d cis d e4 e |
-  a8 a, cis a d d d dis |
-  e e e cis d d d dis |
+  a8 a8 gis8 gis8 fis8 fis8 e8 e8 |
+  d8 d8 cis8 cis8 h8 h8 a8 a8 |
+  e'8 d8 cis8 d8 e4 e4 |
+  a8 a,8 cis8 a8 d8 d8 d8 dis8 |
+  e8 e8 e8 cis8 d8 d8 d8 dis8 |
 
   %40
-  e4. \clef tenor a8 \p d d d dis |
-  e e e cis d d d dis |
-  e4 \clef bass r8 e,8 \f a a gis gis |
-  fis fis e e d d cis cis |
-  h h a a e' e r e |
+  e4. \clef tenor a8 \p d8 d8 d8 dis8 |
+  e8 e8 e8 cis8 d8 d8 d8 dis8 |
+  e4 \clef bass r8 e,8 \f a8 a8 gis8 gis8 |
+  fis8 fis8 e8 e8 d8 d8 cis8 cis8 |
+  h8 h8 a8 a8 e'8 e8 r8 e8 |
 
   %45
-  a e r e a e r e |
-  a d, a d e4 e |
-  fis8 fis e e d d cis cis |
-  h h a a d d dis dis |
-  e4 e e e |
+  a8 e8 r8 e8 a8 e8 r8 e8 |
+  a8 d,8 a8 d8 e4 e4 |
+  fis8 fis8 e8 e8 d8 d8 cis8 cis8 |
+  h8 h8 a8 a8 d8 d8 dis8 dis8 |
+  e4 e4 e4 e4 |
 
   %50
-  e r e8 d cis d |
-  e e e, e a4 r |
-  r2 a'8 a a a |
-  a a a a a a gis gis |
-  a a a fis g g g gis |
+  e4 r4 e8 d8 cis8 d8 |
+  e8 e8 e,8 e8 a4 r4 |
+  r2 a'8 a8 a8 a8 |
+  a8 a8 a8 a8 a8 a8 gis8 gis8 |
+  a8 a8 a8 fis8 g8 g8 g8 gis8 |
 
   %55
-  a a, a' fis g g g gis |
-  a a a a ais ais ais ais |
-  h h, cis cis d d e e |
-  fis4 r8 d e e e h |
-  fis' fis fis d e e e h |
+  a8 a,8 a'8 fis8 g8 g8 g8 gis8 |
+  a8 a8 a8 a8 ais8 ais8 ais8 ais8 |
+  h8 h,8 cis8 cis8 d8 d8 e8 e8 |
+  fis4 r8 d8 e8 e8 e8 h8 |
+  fis'8 fis8 fis8 d8 e8 e8 e8 h8 |
 
   %60
-  fis' fis ais fis h fis fis fis |
-  h, fis' fis fis h e, d e |
-  fis fis fis, fis h h' h, r |
-  r h8 \p( cis d) e c c h |
-  a8-\staccato a8( h c) d h h a |
+  fis'8 fis8 ais8 fis8 h8 fis8 fis8 fis8 |
+  h,8 fis'8 fis8 fis8 h8 e,8 d8 e8 |
+  fis8 fis8 fis,8 fis8 h8 h'8 h,8 r8 |
+  r8 h8 \p( cis8 d8) e8 c8 c8 h8 |
+  a8-\staccato a8( h8 c8) d8 h8 h8 a8 |
 
   %65
-  g4 fis' e d |
-  g gis a r8 fis |
-  g g g gis a a a fis |
-  g g g gis a a, a r |
-  r a'8 \p a a r a a a |
+  g4 fis'4 e4 d4 |
+  g4 gis4 a4 r8 fis8 |
+  g8 g8 g8 gis8 a8 a8 a8 fis8 |
+  g8 g8 g8 gis8 a8 a,8 a8 r8 |
+  r8 a'8 \p a8 a8 r8 a8 a8 a8 |
 
   %70
-  r a a a r a a a |
-  r a a a a a a a |
+  r8 a8 a8 a8 r8 a8 a8 a8 |
+  r8 a8 a8 a8 a8 a8 a8 a8 |
   gis1 |
-  a2~  a4 r |
-  r8 d8 \f cis a r d h g |
+  a2~  a4 r4 |
+  r8 d8 \f cis8 a8 r8 d8 h8 g8 |
 
   %75
-  r<>  \fp fis8 g g a4 a, |
-  d r2 r4 |
-  r8 d'8 \f cis a r d h g |
-  r<>  \fp fis8 g e a4 a, |
-  d8 d8 \f fis d g g g gis |
+  r8<>8  \fp fis8 g8 g8 a4 a,4 |
+  d4 r2 r4 |
+  r8 d'8 \f cis8 a8 r8 d8 h8 g8 |
+  r8<>8  \fp fis8 g8 e8 a4 a,4 |
+  d8 d8 \f fis8 d8 g8 g8 g8 gis8 |
 
   %80
-  a a a fis g g g gis |
-  a4 r8 a d d cis cis |
-  h h a a g g fis fis |
-  e e d d a a' h g |
-  a4 a, d r8 a' |
+  a8 a8 a8 fis8 g8 g8 g8 gis8 |
+  a4 r8 a8 d8 d8 cis8 cis8 |
+  h8 h8 a8 a8 g8 g8 fis8 fis8 |
+  e8 e8 d8 d8 a8 a'8 h8 g8 |
+  a4 a,4 d4 r8 a'8 |
 
   %85
-  d a fis e16 d d'8 a fis e16 d |
-  d'8 a fis e16 d a'8 a, a a'8 \p |
-  d a fis e16 d a'4 r8 fis8 \f |
-  g g g gis a a a fis |
-  g g g gis a a, a a'8 \f |
+  d8[ a8] \grace { g16 } fis8 e16 d16 d'8[ a8] \grace { g16 } fis8 e16 d16 |
+  d'8[ a8] \grace { g16 } fis8 e16 d16 a'8 a,8 a8 a'8 \p |
+  d8[ a8] \grace { g16 } fis8 e16 d16 a'4 r8 fis8 \f |
+  g8 g8 g8 gis8 a8 a8 a8 fis8 |
+  g8 g8 g8 gis8 a8 a,8 a8 a'8 \f |
 
   %90
-  d d cis cis h h a a |
-  g g fis fis e e d d |
-  a' a h g a4 a, |
-  d r8 a'8 \p d d cis cis |
-  h h a a g g fis fis8 \f |
+  d8 d8 cis8 cis8 h8 h8 a8 a8 |
+  g8 g8 fis8 fis8 e8 e8 d8 d8 |
+  a'8 a8 h8 g8 a4 a,4 |
+  d4 r8 a'8 \p d8 d8 cis8 cis8 |
+  h8 h8 a8 a8 g8 g8 fis8 fis8 \f |
 
   %95
-  e e d d a' a, r a' |
-  d a r a d a r a |
-  d, d' d d d d a a |
-  d, d' d d d d a a |
-  d a d g, a a a, a |
+  e8 e8 d8 d8 a'8 a,8 r8 a'8 |
+  d8 a8 r8 a8 d8 a8 r8 a8 |
+  d,8 d'8 d8 d8 d8 d8 a8 a8 |
+  d,8 d'8 d8 d8 d8 d8 a8 a8 |
+  d8 a8 d8 g,8 a8 a8 a,8 a8 |
 
   %100
-  d4 r8 fis g4 a |
-  d r8 fis, g4 a |
-  h8 h a a g g fis fis |
-  e e d d g g g gis |
-  a4 r r8 d cis a |
+  d4 r8 fis8 g4 a4 |
+  d4 r8 fis,8 g4 a4 |
+  h8 h8 a8 a8 g8 g8 fis8 fis8 |
+  e8 e8 d8 d8 g8 g8 g8 gis8 |
+  a4 r4 r8 d8 cis8 a8 |
 
   %105
-  r d h g r fis g e |
-  a4~  a8 r r d8 \p cis a |
-  r d h g r fis g e |
-  a4. a8 \f d d cis cis |
-  h4 a8 a g g fis fis |
+  r8 d8 h8 g8 r8 fis8 g8 e8 |
+  a4~  a8 r8 r8 d8 \p cis8 a8 |
+  r8 d8 h8 g8 r8 fis8 g8 e8 |
+  a4. a8 \f d8 d8 cis8 cis8 |
+  h4 a8 a8 g8 g8 fis8 fis8 |
 
   %110
-  e e d d a' g fis h |
-  a a a, a d4 r4-\fermata \bar"|."
+  e8 e8 d8 d8 a'8 g8 fis8 h8 |
+  a8 a8 a,8 a8 d4 r4-\fermata \bar"|."
 }

@@ -21,14 +21,14 @@
   %15
   fis16 e16 d8 r8 a'8 d8 d8 cis8 cis8 |
   h8.-\trill a32( h32) a8 d,8 g8 g8 fis8.-\trill e32( fis32) |
-  e16[ d16 cis16 h16] a16[ h'16 a16 g16] fis8 e16 d16 e4-\trill |
+  e16[ d16 cis16 h16] a16[ h'16 a16 g16] \grace {g16} fis8 e16 d16 e4-\trill |
   d4 r4 r4 r8 a'8 \p |
   d8 d8 cis8 cis8 h4-\trill a8 d,8 |
 
   %20
   g8 g8 fis8.-\trill e32( fis32) e16[ d16 cis16 h16] a16[ e'16 fis16 d16] |
   e16[ d16 cis16 h16] a16[ g'16 fis16 e16] fis16[ d16 a16 fis16] d16[ a''16 g16 fis16] |
-  e16[ d16 cis16 h16] a16[ h'16 a16 g16] fis8 e16 d16 cis4-\trill |
+  e16[ d16 cis16 h16] a16[ h'16 a16 g16] \grace {g16} fis8 e16 d16 cis4-\trill |
   d4 r4 d4 \p e4 |
   fis8 fis4 h8 a8 g8 fis8 e8 |
 
@@ -43,8 +43,8 @@
   h,4. e8 d4 cis4 |
   cis4( h8) e8 gis,8 h8 a4 |
   a8( gis8) r8 e'8 \f e4. e8 |
-  a8 a,8 cis8 h16 a16 e'8 e,8 gis8 fis16 e16 |
-  a8 a,8 cis8 h16 a16 e'4 r4 |
+  a8[ a,8] \grace {d16} cis8 h16 a16 e'8[ e,8] \grace {a16} gis8 fis16 e16 |
+  a8[ a,8] \grace {d16} cis8 h16 a16 e'4 r4 |
 
   %35
   r4 r8 e'8 a8 a8 gis8 gis8 |
@@ -98,12 +98,12 @@
   %70
   e2 fis2) |
   e1 |
-  d1 |
+  \grace { e2 } d1 |
   cis2~  cis4 r8 a8 \f |
   d8.-\trill cis32( d32) e8 a,8 fis'8.-\trill e32( fis32) g8 e8 |
 
   %75
-  <>8  \fp a8.-\trill g32( a32) h8 g,8 e2-\trill |
+  <>8  \fp a8.-\trill g32( a32) h8 g,8 \grace { fis4 } e2-\trill |
   d8 d16 d16 d8 d8 d4 r8 a'8 \f |
   d8.-\trill cis32( d32) e8 a,8 fis'8.-\trill e32( fis32) g8 e8 |
   <>8  \fp a8.-\trill g32( a32) h8 h,8 d4( cis4-\trill) |
@@ -117,9 +117,9 @@
   d4 cis4-\trill d16[ d,16 e16 fis16] g16[ a16 h16 cis16] |
 
   %85
-  d8 a8 fis8 e16 d16 d'8 a8 fis8 e16 d16 |
-  d'8 a8 fis8 e16 d16 a'4 r8 a8 \p |
-  d8 a8 fis8 e16 d16 a'4 r8 fis'8 \f |
+  d8[ a8] \grace { g16 } fis8 e16 d16 d'8[ a8] \grace { g16 } fis8 e16 d16 |
+  d'8[ a8] \grace { g16 } fis8 e16 d16 a'4 r8 a8 \p |
+  d8[ a8] \grace { g16 } fis8 e16 d16 a'4 r8 fis'8 \f |
   fis4( e8) d8 d4( cis8) fis8 |
   fis4( e8) d8 d8( cis8) r4 |
 
@@ -153,5 +153,5 @@
 
   %110
   g8 g8 fis8.-\trill e32( fis32) e8 cis'8 d8 g,8 |
-  fis8 e16 d16 cis4-\trill d4 r4-\fermata \bar"|."
+  \grace { g16 } fis8 e16 d16 cis4-\trill d4 r4-\fermata \bar"|."
 }

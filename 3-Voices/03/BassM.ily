@@ -6,9 +6,9 @@
   a4 a d, r8 a' |
 
   %85
-  d[ a] fis[ e16 d] d'8[ a fis d] |
-  d'[ a] fis[ e16 d] a'4 r8 a8\p |
-  d[ a] fis[ e16 d] a'4 r8 fis8 \f |
+  d8[ a8] \grace { g16 } fis8[ e16 d16] d'8[ a8] \grace { g16 } fis8[ e16 d16] |
+  d'8[ a8] \grace { g16 } fis8[ e16 d16] a'4 r8 a8\p |
+  d[ a] \grace { g16 } fis8[ e16 d] a'4 r8 fis8 \f |
   g4. gis8 a4. fis8 |
   g4. gis8 a4 r8 a8 \f |
 

@@ -117,9 +117,9 @@
   a4 g4 fis16[ d16 e16 fis16] g16[ a16 h16 cis16] |
 
   %85
-  d8 a8 fis8 e16 d16 d'8 a8 fis8 e16 d16 |
-  d'8 a8 fis8 e16 d16 a'8 a,8 a8 a'8 \p |
-  d8 a8 fis8 e16 d16 a'4 r8 a,8 \f |
+  d8[ a8] \grace { g16 } fis8 e16 d16 d'8[ a8] \grace { g16 } fis8 e16 |
+  d'8[ a8] \grace { g16 } fis8 e16 a'8 a,8 a8 a'8 \p |
+  d8[ a8] \grace { g16 } fis8 e16 d16 a'4 r8 a,8 \f |
   h4. h8 a4. a8 |
   h4. h8 a4 r8 a8 \f |
 

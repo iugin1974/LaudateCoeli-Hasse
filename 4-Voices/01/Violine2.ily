@@ -117,9 +117,9 @@
   d4 cis4-\trill d16[ d,16 e16 fis16] g16[ a16 h16 cis16] |
 
   %85
-  d8 a8 fis8 e16 d16 d'8 a8 fis8 e16 d16 |
-  d'8 a8 fis8 e16 d16 a'4 r8 a8 \p |
-  d8 a8 fis8 e16 d16 a'4 r8 fis'8 \f |
+  d8[ a8] \grace { g16 } fis8 e16 d16 d'8[ a8] \grace { g16 } fis8 e16 |
+  d'8[ a8] \grace { g16 } fis8 e16 a'4 r8 a8 \p |
+  d8[ a8] \grace { g16 } fis8 e16 d16 a'4 r8 fis'8 \f |
   fis4( e8) d8 d4( cis8) fis8 |
   fis4( e8) d8 d8( cis8) r4 |
 

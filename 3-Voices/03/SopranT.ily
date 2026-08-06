@@ -1,6 +1,6 @@
 {
   Lau -- da -- te coe -- li, lau -- da -- _ _ te, al -- le -- lu -- ja.
-  Al -- le  -- _ _ _ lu -- ja,
+  Al -- le  -- _ _ _ _ lu -- ja,
   al -- le -- lu -- ja,
   al -- le -- lu -- ja, __ al -- le -- lu -- ja, __
   lau -- da -- te coe -- li, lau -- da -- _ _ te, al -- le -- lu -- ja,

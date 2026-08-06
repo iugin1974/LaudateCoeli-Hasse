@@ -9,8 +9,8 @@
   fis d'4 d cis16[ h] a8 g |
   fis8. e16 d8 d' g,4 fis |
   fis( e8) a g4 fis |
-  fis8[( e]) r a g2 |
-  fis4 r8 h a2 |
+  fis8[( e]) r a \grace {a4} g2 |
+  fis4 r8 h \grace {h4} a2 |
 
   %30
   gis4 r8 a d4 cis |
@@ -40,7 +40,7 @@
   R1*4/4*3 |
   r2 r4 r8 e |
   a e a h cis4. d8 |
-  e16[ cis] a4 g8 fis4. fis8 |
+  e16[ cis] a4 g8 \grace { g8 } fis4. fis8 |
   e4 r8 a a4( g8) fis |
 
   %55
@@ -67,12 +67,12 @@
   %70
   cis2 d |
   e4. d8 cis[ h] a g |
-  fis1 |
+  \grace { g2 } fis1 |
   e2~  e4 r |
   R1*4/4 |
 
   %75
-  a4 d,8 h' g2 |
+  a4 d,8 h' \grace { a4 } g2 |
   fis4 r r2 |
   R1*4/4 |
   d'4 h8 e d4( cis) |
@@ -86,9 +86,9 @@
   a4 a d, r8 a' |
 
   %85
-  d[ a] fis[ e16 d] d'8[ a fis d] |
-  d'[ a] fis[ e16 d] a'4 r8 a8\p |
-  d[ a] fis[ e16 d] a'4 r8 fis8 \f |
+  d8[ a8] \grace { g16 } fis8[ e16 d16] d'8[ a8] \grace { g16 } fis8[ e16 d16] |
+  d'8[ a8] \grace { g16 } fis8[ e16 d16] a'4 r8 a8\p |
+  d[ a] \grace { g16 } fis8[ e16 d] a'4 r8 fis8 \f |
   g4. gis8 a4. fis8 |
   g4. gis8 a4 r8 a8 \f |
 
