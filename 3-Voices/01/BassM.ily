@@ -6,7 +6,7 @@
   d8 d4 d8 d[ cis16 h] a8[ g] |
 
   %25
-  fis d'4 d cis16[ h] a8[ g] |
+  fis d'4 d cis16[ h] a8 g |
   fis8. e16 d8 d' g,4 fis |
   fis( e8) a g4 fis |
   fis8[( e]) r a g2 |

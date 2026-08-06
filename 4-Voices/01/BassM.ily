@@ -6,10 +6,10 @@
   d8 d4 d8 d[ cis16 h] a8[ g] |
 
   %25
-  fis d'4 d cis16[ h] a8[ g] |
+  fis d'4 d cis16[ h] a8 g |
   fis8. e16 d8 d' g,4 fis |
   fis( e8) a g4 fis |
-  fis8( e) r a g2 |
+  fis8[( e]) r a g2 |
   fis4 r8 h a2 |
 
   %30
@@ -34,7 +34,7 @@
   h a e'8 e r e |
 
   %45
-  a e r e a e r e |
+  a e r e a e r gis |
   a4 a8 d, e4 e |
   a r r2 |
   R1*4/4*3 |
@@ -100,11 +100,11 @@
   h a8 a g4 fis |
 
   %95
-  e d a'8 a r a |
-  d a r a d a r a |
-  d,4 d'2 a4 |
-  d, d'2 a4 |
-  d8[ a] d g, a4 a |
+  e d a'8 a r cis |
+  d cis r a d a r a |
+  d,4 d'2 cis4 |
+  d d2 cis4 |
+  d8[ a] d h a4 a |
 
   %100
   d, r8 fis g4 a |

@@ -1,5 +1,5 @@
 {
-  Lau -- da -- te coe -- li, lau -- da -- _ _ _ _ _ te Do -- mi -- num, Al -- le -- lu -- ja, __ Al -- le -- lu -- ja, __
+  Lau -- da -- te coe -- li, lau -- da -- _ _ _ _ _ _ te Do -- mi -- num, Al -- le -- lu -- ja, __ Al -- le -- lu -- ja, __
   Lau -- da -- te, lau -- da -- te, Al -- le -- lu -- ja, __ Al -- le -- lu -- ja, __
   Lau -- da -- te, Al -- le -- lu -- ja, lau -- da -- te coe -- li, lau -- da -- _ _ _ _ te Do -- mi -- num,
   Al -- le -- lu -- ja, Al -- le -- lu -- ja.
