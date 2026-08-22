@@ -78,7 +78,7 @@
       >>
       \layout {
         \context {
-          \Score
+          \ChoirStaff
           \RemoveEmptyStaves
         }
       }
@@ -133,24 +133,24 @@
       >>
       \layout {
         \context {
-          \Score
+          \StaffGroup
           \RemoveEmptyStaves
         }
       }
     }
   }
 
-\bookpart {
+  \bookpart {
     #(define prefix "02.2/")
     \score {
       \include #(string-append prefix "Header.ily")
       <<
-          \new Staff \with \bvn
-          \new Voice = "BassM"
-          << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "BassM.ily") >>
-          \new Lyrics \lyricsto "BassM" \include #(string-append prefix "BassT.ily")
+        \new Staff \with \bvn
+        \new Voice = "BassM"
+        << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "BassM.ily") >>
+        \new Lyrics \lyricsto "BassM" \include #(string-append prefix "BassT.ily")
 
-          \new PianoStaff <<
+        \new PianoStaff <<
           \new Staff << \include #(string-append prefix "Global.ily") \include #(string-append prefix "RH.ily") >>
           \new Staff
           <<
@@ -211,11 +211,10 @@
       >>
       \layout {
         \context {
-          \Score
+          \ChoirStaff
           \RemoveEmptyStaves
         }
       }
     }
   }
-
 }
