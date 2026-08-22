@@ -15,7 +15,7 @@
     fis4. d4. a'8 h8 c8 c4 a8 | % 15
     g8 h8 a8 g8 fis8 e8 a8 c8 h8 a8 g8 fis8 | % 16
     fis8 g8 fis8 e8 fis8 e8 d8 e8 c8 h8 c8 a8 | % 17
-    g8 h8 d8 g8 a8 fis8 g8 d8 h8 g8 h8 a8 | % 18
+    g8 h8 d8 g8 a8 fis8 g8 d8 h8 g8 h8 g8 | % 18
     fis8 a8 d8 fis8 a8 g8 fis8 a8 fis8 d8 fis8 c8 | % 19
     g8 h8 d8 f8 g8 d8 f8 d8 h8 a8 h8 gis8 | \barNumberCheck #20
     a8 c8 e8 a8 gis8 a8 a,8 c8 d8 fis8 e8 fis8 | % 21
