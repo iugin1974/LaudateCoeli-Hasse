@@ -39,7 +39,7 @@
   fis4( e8) a a4( g8) fis |
   fis[( e]) r4 r r8 a |
   d4 cis h a8 a |
-  cis4 d4 cis8[ h16 a16] fis8 h8 |
+  cis4 d4 \grace { d16 } cis8[ h16 a16] fis8 h8 |
   a4 cis d r8 a |
 
   %85
