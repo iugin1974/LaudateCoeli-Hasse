@@ -75,6 +75,10 @@
           \Voice
           \remove Dynamic_engraver
         }
+        \context {
+          \Voice
+          \remove Figured_bass_engraver
+        }
       }
     }
   }
@@ -140,7 +144,12 @@
           << \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "BassM.ily") >>
           \new Lyrics \lyricsto "BassM" \include #(string-append prefix "BassT.ily")
 
-          \new Staff  <<
+          \new Staff \with {
+          fontSize = #-3
+          \override StaffSymbol.staff-space = #(magstep -3)
+          \override StaffSymbol.thickness = #(magstep -3)
+          \consists Merge_rests_engraver
+        } <<
             \clef "bass" \include #(string-append prefix "Global.ily") \include #(string-append prefix "Violoncello.ily")
           >>
       >>
