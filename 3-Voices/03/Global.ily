@@ -3,4 +3,5 @@
 \time 2/2
 \key d \major
 \tempo "Allegro con spirito" 4=100
+\accidentalStyle modern
 }

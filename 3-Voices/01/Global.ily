@@ -4,4 +4,5 @@
 \key d \major
 \tempo "Allegro con spirito" 4=100
 \partial 8
+\accidentalStyle modern
 }
