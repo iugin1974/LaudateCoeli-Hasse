@@ -35,5 +35,5 @@
   <d fis h>4 <e a cis>4 <g h d>4 <d a' d>4 | % 109
   <e g cis>4 <fis a d>4 <e a cis>4 <fis a d>8 [ <fis d'>8 ] | % 110
   <fis a d>4 <e a cis>4 <fis a d>4 r4 | % 111
-  R1 \bar "|."
+  \bar "|."
 }
