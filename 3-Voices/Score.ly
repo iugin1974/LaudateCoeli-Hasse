@@ -2,7 +2,7 @@
 \language "deutsch"
 \include "Cover.ily"
 \include "Commons.ily"
-#(set-global-staff-size 15)
+#(set-global-staff-size 16)
 \pointAndClickOff
 
 
@@ -85,9 +85,6 @@
     }
   }
 
-  \pageBreak
-  \markup \null
-  \pageBreak
 
   \bookpart {
     #(define prefix "02/")
@@ -141,6 +138,9 @@
   }
 
   \bookpart {
+    \paper {
+      ragged-last-bottom = ##f
+    }
     #(define prefix "02.2/")
     \score {
       \include #(string-append prefix "Header.ily")
@@ -157,6 +157,9 @@
         >>
         \new FiguredBass { \include #(string-append prefix "Continuo.ily") }
       >>
+      \layout {
+        #(layout-set-staff-size 19)  % questa score sarà a 19pt
+      }
     }
   }
 
