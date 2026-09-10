@@ -31,7 +31,7 @@
     a8 c8 e8 a8 h8 gis8 a8 e8 c8 a8 c8 a8 | % 31
     gis8 h8 e8 gis8 h8 a8 gis8 h8 gis8 e8 d8 h8 | % 32
     a8 cis8 e8 g8 b8 a8 g8 b8 g8 e8 cis8 a8 | % 33
-    fis8 a8 c8 dis8 fis8 e8 dis8 fis8 dis8 c8 a8 fis8 | % 34
+    fis8 a8 c8 dis8 fis8 e8 dis8 fis8 dis8 c!8 a8 fis8 | % 34
     g8 h8 d8 g8 a8 fis8 g8 d8 h8 g8 h8 g8 | % 35
     fis8 a8 d8 fis8 a8 g8 fis8 a8 fis8 d8 fis8 c8 | % 36
     h8 g'8 fis8 g8 d8 h8 c8 a'8 gis8 a8 e8 c8 | % 37
